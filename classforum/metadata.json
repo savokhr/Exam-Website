@@ -1,6 +1,0 @@
-{
-  "name": "ClassForum",
-  "description": "A secure assessments platform that empowers educators to create quizzes, tests, and exams with confidence, featuring live proctoring, tab-switch detection, and detailed integrity analytics.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
